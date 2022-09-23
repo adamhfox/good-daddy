@@ -1,5 +1,5 @@
 # User account token. Check the included get_auth_token.png file to learn how to find your token
-token = "NzM0ODIwODA1NTk0MzE2ODQw.GhU2hy.F5GCr4rN74wsuYyMrvbzdWtmsqGJAkwmjM2T7w"
+token = "OTk5MzU3OTAzNDczNDg3OTMy.GRuHBu.6qlJDDGzgbCIOQvijpp8tDGA2fbJ82a_Ntj6Yw"
 
 # Time (in seconds) between updating the list of channels/webhooks from the text file
 scan_interval_seconds = 120
